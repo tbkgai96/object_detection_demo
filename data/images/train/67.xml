@@ -71,4 +71,16 @@
 			<ymax>366</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>Block D corridor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>1</ymin>
+			<xmax>795</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
 </annotation>
