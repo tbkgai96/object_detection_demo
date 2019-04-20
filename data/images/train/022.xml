@@ -1,0 +1,26 @@
+<annotation>
+	<folder>todownloadonpc</folder>
+	<filename>28.png</filename>
+	<path>F:\fyp_train_people\data\images\train\todownloadonpc\28.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>124</ymin>
+			<xmax>545</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>
