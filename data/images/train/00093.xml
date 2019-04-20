@@ -1,0 +1,38 @@
+<annotation>
+	<folder>todownloadonpc</folder>
+	<filename>00093.JPG</filename>
+	<path>F:\fyp_resized_train_location_dataset\data\images\train\todownloadonpc\00093.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pillar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>616</xmin>
+			<ymin>5</ymin>
+			<xmax>746</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Block D Pillar 1</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>775</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
